@@ -139,7 +139,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>maven_sms</finalName>
+		<finalName>stockmgt_maven_project</finalName>
 		<pluginManagement>
 			<plugins>
 				<plugin>
